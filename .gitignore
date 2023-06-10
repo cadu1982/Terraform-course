@@ -1,0 +1,27 @@
+# Diretório .terraform (gerado pelo Terraform)
+.terraform/
+
+# Arquivos de estado do Terraform
+*.tfstate
+*.tfstate.backup
+*.tfstate.backup.*
+
+# Arquivos de plano de execução do Terraform
+*.tfplan
+
+# Arquivos de log do Terraform
+terraform.log
+
+# Arquivos de variáveis de ambiente do Terraform
+*.auto.tfvars
+*.auto.tfvars.json
+*.tfvars
+*.tfvars.json
+
+# Diretório de plugins do Terraform
+terraform/plugins/
+
+# Diretório .terraform.lock.hcl (gerado pelo Terraform)
+
+.terraform.lock.hcl
+
