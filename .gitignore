@@ -25,3 +25,5 @@ terraform/plugins/
 
 .terraform.lock.hcl
 
+.terraform.tfstate.lock.info
+

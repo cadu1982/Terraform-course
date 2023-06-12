@@ -18,3 +18,5 @@
 # Diretório .terraform.lock.hcl (gerado pelo Terraform)
 
 .terraform.lock.hcl
+
+.terraform.tfstate.lock.info
