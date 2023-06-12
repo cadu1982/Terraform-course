@@ -1,0 +1,6 @@
+location = "Brazil South"
+
+# exemplo para sobrescrever as variáveis do variables.tf
+este arquivo deveria ter o nome de:
+
+terraform.tfvars
